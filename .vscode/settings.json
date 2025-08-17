@@ -1,0 +1,5 @@
+{
+  "typescript.tsdk": "node_modules\\typescript\\lib",
+  /// js: 自動インポートで拡張子を維持する。tsも含まれる
+  "typescript.preferences.importModuleSpecifierEnding": "js",
+}

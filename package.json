@@ -1,0 +1,19 @@
+{
+  "main": "",
+  "scripts": {
+    "start": "node --env-file-if-exists=.env ./src/index.ts",
+    "test": "vitest run"
+  },
+  "type": "module",
+  "license": "MIT",
+  "dependencies": {
+    "typescript": "5.9.2"
+  },
+  "devDependencies": {
+    "@types/node": "24.3.0",
+    "vitest": "3.2.4"
+  },
+  "volta": {
+    "node": "24.6.0"
+  }
+}
