@@ -1,0 +1,6 @@
+@import "tailwindcss";
+@theme {
+  --font-display: "UDEV Gothic JPDOC"; 
+  --font-mono: "UDEV Gothic JPDOC"; 
+  --font-sans: "UDEV Gothic JPDOC"; 
+}

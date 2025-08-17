@@ -18,7 +18,8 @@
     "types": [
       // "vitest/globals", // .test.ts の中で直接itやexceptを使う時はコメントを解除する
       "vitest/importMeta", // In-Source テストを行う時はコメントを解除する
-    ]
+    ],
+    "jsx": "react-jsx",
   },
   "ts-node": {
     "files": true
