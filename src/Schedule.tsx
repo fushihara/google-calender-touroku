@@ -635,8 +635,9 @@ export function CalendarRegistration() {
             スケジュールを登録
           </button>
         </div>
+        <div>※入力したデータはどこにも誰にも送られません。登録を押すとGoogleカレンダーの画面が開くのでそこで登録を押してください。Githubレポジトリ:<a href="https://github.com/fushihara/google-calender-touroku">fushihara/google-calender-touroku</a></div>
       </div>
-    </div>
+    </div >
   );
 };
 

@@ -3,6 +3,6 @@ import { createRoot } from "react-dom/client";
 import App from './App';
 createRoot(document.getElementById('root')!).render(
   <StrictMode>
-    <App xxx={"zzz"} />
+    <App />
   </StrictMode>,
 )
